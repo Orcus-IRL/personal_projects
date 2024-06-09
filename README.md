@@ -6,7 +6,7 @@ Welcome to my personal projects repository! This collection showcases various Py
 
 This repository includes:
 - **chat bot**: A simple chatbot implementation.
-- **password generator**: A script for generating secure passwords.
+- **password generator**: A script for generating secure passwords and more.
 
 ## Getting Started
 
