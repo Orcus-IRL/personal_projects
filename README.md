@@ -46,4 +46,3 @@ This project is licensed under the MIT License.
 
 For questions or feedback, please open an issue on the [GitHub repository](https://github.com/Orcus-IRL/personal_projects).
 
-Happy Coding!
