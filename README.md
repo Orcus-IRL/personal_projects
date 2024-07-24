@@ -37,6 +37,7 @@ Ensure you have Python installed. You can download it from the [official Python 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and create a pull request with your enhancements or new projects.
+if you have any ideas let me know, maybe we can do a project together.
 
 ## License
 
