@@ -33,6 +33,7 @@ Ensure you have Python installed. You can download it from the [official Python 
 
 - **chat bot**: A basic chatbot to demonstrate simple AI interactions(have to update that).
 - **password generator**: A utility to create strong and random passwords.
+- **UPDATE**: I have written a program that will follow the maximum number of people on instagram automatically. I am currently testing it to run like 4 times a day. Because you can follow only 200 people per hour on instagram, so I have to make it wait for an hour after following 200 people. If you want to see that project let me know.
 
 ## Contributing
 
